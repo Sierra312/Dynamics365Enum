@@ -1,5 +1,5 @@
 # Dynamics365Enum
-Dynamics 365 Enumeration Tool v3.0 A specialized enumeration script for Dynamics 365 penetration testing and red teaming.
+Dynamics 365 Enumeration Tool specialized enumeration script for Dynamics 365 penetration testing and red teaming.
 Key Features:
 
 -Endpoint Discovery: Enumerates Core, Debug, and API paths.
